@@ -1,3 +1,5 @@
+## Hi there 👋 I'm Brandon Almanza
+
 # 💫 About Me:
 I am a second-year software engineering student at Centennial College, with experience in C#, Java, SQL, web development (HTML, CSS, JavaScript), and Unix/Linux operating systems. I am passionate about learning and exploring the world of coding, as well as building reliable applications.  
 
