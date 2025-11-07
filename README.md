@@ -1,9 +1,12 @@
 # 💫 About Me:
-I am a second-year software engineering student at Centennial College, with experience in C#, Java, SQL, web development (HTML, CSS, JavaScript), and Unix/Linux operating systems. I am passionate about learning and exploring the world of coding, as well as building reliable applications.  
+I am a second-year software engineering student at Centennial College, with experience in C#, Java, SQL, web development (HTML, CSS, JavaScript), and Unix/Linux operating systems. I am passionate about learning and exploring the world of coding, as well as building reliable applications.
+
+## 🧐 What I'm up to
+Currently learning DevOps through LinkedIn Learning and actively searching for a Co-op/Internship position for Winter 2026
 
 <!-- **brandon-almanza/brandon-almanza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-## 🎓Education
+## 🎓 Education
 - [Centennial College](https://www.centennialcollege.ca/) Software Engineering Technology (Class of 2027)
 - [St. John Henry Newman Catholic High School](https://www.tcdsb.org/o/stjohnhenrynewman) (Class of 2024)
 
