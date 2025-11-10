@@ -2,7 +2,8 @@
 I am a second-year software engineering student at Centennial College, with experience in C#, Java, SQL, web development (HTML, CSS, JavaScript), and Unix/Linux operating systems. I am passionate about learning and exploring the world of coding, as well as building reliable applications.
 
 ## 🧐 What I'm up to
-Currently learning DevOps through LinkedIn Learning and actively searching for a Co-op/Internship position for Winter 2026
+- Actively searching for a Co-op/Internship position for Winter 2026
+- Doing continuous learning through certificates on sites such as DataCamp and LinkedIn Learning
 
 <!-- **brandon-almanza/brandon-almanza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
