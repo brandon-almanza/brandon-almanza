@@ -3,7 +3,7 @@ I am a second-year software engineering student at Centennial College, with expe
 
 ## 🧐 What I'm up to
 - Actively searching for a Co-op/Internship position for Winter 2026
-- Doing continuous learning through certificates on sites such as DataCamp and LinkedIn Learning
+- Doing continuous learning through certificates on sites such as DataCamp, FreeCodeCamp and LinkedIn Learning
 
 <!-- **brandon-almanza/brandon-almanza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
