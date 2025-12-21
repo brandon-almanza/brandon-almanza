@@ -2,7 +2,7 @@
 I am a second-year software engineering student at Centennial College, with experience in C#, Java, SQL, web development (HTML, CSS, JavaScript), and Unix/Linux operating systems. I am passionate about learning and exploring the world of coding, as well as building reliable applications.
 
 ## 🧐 What I'm up to
-- Incoming IT Integrated Services Support Technician (Co-op) for Winter 2026
+- Incoming **IT Integrated Services Support Technician (Co-op)** for Winter 2026
 - Preparing for hands-on experience in troubleshooting, technical support and IT operations
 - Continuing skill development through courses/certifications on sites such as DataCamp, FreeCodeCamp and LinkedIn Learning
 
