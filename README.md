@@ -2,14 +2,14 @@
 I am a second-year Software Engineering Technology student at Centennial College, specializing in IT operations, system administration, and technical support. Drawing on my foundational knowledge of software development (C#, Java) and Unix/Linux systems, I thrive in environments where I can optimize hardware lifecycles, streamline identity access, and provide high-level technical solutions to real-world infrastructure challenges.
 
 ## 🧐 What I'm up to / Recent Events
-- Actively searching for a **Fall 2026 Co-Op** 
-- recently wrapped my co-op work term as a **Tier 2 IT Support Technician** at Centennial College.
-- Actively pursuing my CompTIA A+ certification to further validate my hardware and network troubleshooting expertise..
-- Continuing skill development through platforms like DataCamp, Coursera, and LinkedIn Learning.
+- INCOMING @ HATCH (IT Service Desk Student)🎉
+- Recently finished my first co-op work term as a **Tier 2 IT Support Technician** at Centennial College.
+- Actively pursuing my CompTIA A+ certification to validate my hardware and network troubleshooting expertise further.
+- Continuing my overall skill development through platforms like Coursera and LinkedIn Learning.
 
 ## 🛠️ IT Skills & Tech Stack:
 IT Operations:
-ServiceNow ITAM | Active Directory | Computer Imaging & Deployment | Microsoft MFA | Dell BIOS
+ServiceNow ITAM | Active Directory | Computer Imaging & Deployment | Microsoft Azure | Remote Desktop Support
 
 Operating Systems:
 Windows 10/11 | Apple OS | Linux
