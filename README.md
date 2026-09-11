@@ -2,13 +2,13 @@
 Hello Everyone! I'm Brandon. I am currently a student at Centennial College studying Software Engineering, but my real/true focus is on the world of IT. While I've got a solid foundation in software development, my actual goals and interests lie in IT operations, hardware, and system administration. I enjoy the hands-on side of tech, solving practical infrastructure problems and making sure systems actually run the way they're supposed to.
 
 ## 🧐 What I'm up to / Recent Events
-- INCOMING @ **HATCH** FOR FALL 2026 (IT Service Desk Student/Co-op) 🎉
-- Recently finished my first co-op work term as a **Tier 2 IT Support Technician** at Centennial College.
+- Currently working @ **HATCH** as an IT Service Desk Technician 💻
+- finished my first co-op work term as a **Tier 2 IT Support Technician** @ Centennial College.
 - Actively pursuing my **CompTIA A+** certification to validate my hardware and network troubleshooting expertise further.
 
 ## 🛠️ IT Skills & Tech Stack:
 IT Operations:
-ServiceNow ITAM | Active Directory | Computer Imaging & Deployment | Microsoft Azure | Remote Desktop Support
+ServiceNow/Zendesk | Active Directory | Computer Imaging & Deployment | Microsoft 365 | Remote Desktop Support
 
 Operating Systems:
 Windows 10/11 | Apple OS | Linux
