@@ -3,7 +3,7 @@ Hello Everyone! I'm Brandon. I am currently a student at Centennial College stud
 
 ## 🧐 What I'm up to / Recent Events
 - Currently working @ **HATCH** as an IT Service Desk Technician 💻
-- finished my first co-op work term as a **Tier 2 IT Support Technician** @ Centennial College.
+- finished my first co-op work term as a Tier 2 IT Support Technician @ **Centennial College.**
 - Actively pursuing my **CompTIA A+** certification to validate my hardware and network troubleshooting expertise further.
 
 ## 🛠️ IT Skills & Tech Stack:
