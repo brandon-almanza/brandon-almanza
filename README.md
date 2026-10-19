@@ -2,16 +2,22 @@
 Hello Everyone! I'm Brandon. I am currently a student at Centennial College studying Software Engineering, but my real/true focus is on the world of IT. While I've got a solid foundation in software development, my actual goals and interests lie in IT operations, hardware, and system administration. I enjoy the hands-on side of tech, solving practical infrastructure problems and making sure systems actually run the way they're supposed to.
 
 ## 🧐 What I'm up to / Recent Events
-- Currently working @ **HATCH** as an IT Service Desk Technician 💻
-- finished my first co-op work term as a Tier 2 IT Support Technician @ **Centennial College.**
-- Actively pursuing my **CompTIA A+** certification to validate my hardware and network troubleshooting expertise further.
+- 💻 Currently working @ **HATCH** as a Service Desk Technician, automating global Active Directory onboarding via Orchestrator scripts, imaging workstations with **MECM (SCCM) & Intune**, and managing enterprise assets in **Lansweeper**.
+- 📜 Currently pursuing my **Microsoft AB-900 (Copilot & Agent Administration Fundamentals)** and **CompTIA A+** certifications.
+- 🎓 Completed my first co-op work term as an IT Support Technician @ **Centennial College**, where I managed hardware lifecycles via **ServiceNow ITAM** and imaged 200+ lab workstations (including setups for the **Skills Ontario** competition).
 
 ## 🛠️ IT Skills & Tech Stack:
-IT Operations:
-ServiceNow/Zendesk | Active Directory | Computer Imaging & Deployment | Microsoft 365 | Remote Desktop Support
+**IT Operations & Systems Administration:**
+Active Directory & Orchestrator Scripting | MECM (SCCM) & Microsoft Intune | ServiceNow (ITSM/ITAM) & Zendesk | Lansweeper | Workstation Imaging & Deployment | Remote Desktop Support
 
-Operating Systems:
-Windows 10/11 | Apple OS | Linux
+**Software, Cloud & Enterprise Platforms:**
+Microsoft 365 (Teams, SharePoint, OneDrive) | Microsoft Azure | SAP | Adobe Creative Cloud / Acrobat
+
+**Hardware & Enterprise AV:**
+Dell/Alienware, HP & Lenovo Laptops | iPhones | Crestron Control Systems | Barco ClickShare | Microsoft Teams Rooms
+
+**Operating Systems:**
+Windows 10/11 | Apple OS (macOS / iOS) | Unix / Linux
 
 Developer Tools: ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
